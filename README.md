@@ -1,10 +1,11 @@
-#✈️ Airline Ground Operations Dashboard
-##📊 Project Overview
+✈️ Airline Ground Operations Dashboard
+
+📊 Project Overview
 
 This Power BI project analyzes ground operations performance across multiple datasets to evaluate flight handling efficiency and operational bottlenecks.
 The dashboard provides insights into flight turnaround performance, resource utilization, service requests, and overall operation difficulty, helping optimize workforce planning and reduce delays.
 
-##🧠 Key Objectives
+🧠 Key Objectives
 
 Evaluate ground time efficiency and identify delays vs. scheduled targets.
 
@@ -14,7 +15,7 @@ Provide data-driven decision support for operations managers to optimize resourc
 
 Visualize trends and correlations across multiple flight parameters.
 
-##🗂️ Data Sources
+🗂️ Data Sources
 
 Flight Operations Data — includes flight schedule, ground time, and aircraft details.
 
@@ -22,9 +23,8 @@ Passenger & Service Data — includes service requests, checked bags, and passen
 
 Load & Crew Data — includes crew size, flight load, and other operational factors.
 
-(All datasets were combined and cleaned using Power BI’s Power Query Editor.)
 
-##⚙️ Feature Engineering
+⚙️ Feature Engineering
 
 Derived and custom-calculated features include:
 
@@ -36,6 +36,6 @@ Baggage Load Ratio = Total Bags / Total Passengers
 
 Service Intensity Index = Number of Special Requests per Passenger
 
-##👩‍💻 Author
+👩‍💻 Author
 
 Vanshika Tomar
